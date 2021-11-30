@@ -1,0 +1,2 @@
+Prefix plugins/LongestContig/example
+Plugin LongestContig inputfile input.fasta outputfile longest.fasta
